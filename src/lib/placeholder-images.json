@@ -1,3 +1,58 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A blurred background of a modern, upscale restaurant interior.",
+      "imageUrl": "https://images.unsplash.com/photo-1583354608715-177553a4035e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxyZXN0YXVyYW50JTIwaW50ZXJpb3J8ZW58MHx8fHwxNzYzMTU5NDY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "restaurant interior"
+    },
+    {
+      "id": "dish-burger",
+      "description": "A juicy gourmet cheeseburger with a side of fries.",
+      "imageUrl": "https://images.unsplash.com/photo-1610440042657-612c34d95e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxnb3VybWV0JTIwYnVyZ2VyfGVufDB8fHx8MTc2MzE5OTg5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gourmet burger"
+    },
+    {
+      "id": "dish-pizza",
+      "description": "A wood-fired pizza with fresh basil and mozzarella.",
+      "imageUrl": "https://images.unsplash.com/photo-1739156202304-5e9e55ad8d46?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxnb3VybWV0JTIwcGl6emF8ZW58MHx8fHwxNzYzMTk5ODk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gourmet pizza"
+    },
+    {
+      "id": "dish-pasta",
+      "description": "A bowl of spaghetti carbonara with parmesan cheese.",
+      "imageUrl": "https://images.unsplash.com/photo-1686565510178-52c69af8be37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwYXN0YSUyMGJvd2x8ZW58MHx8fHwxNzYzMTI5OTMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pasta bowl"
+    },
+    {
+      "id": "dish-salad",
+      "description": "A fresh Greek salad with feta cheese and olives.",
+      "imageUrl": "https://images.unsplash.com/photo-1662743086910-38419bbf7f34?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmcmVzaCUyMHNhbGFkfGVufDB8fHx8MTc2MzExNTY5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fresh salad"
+    },
+    {
+      "id": "dish-sushi",
+      "description": "A platter of assorted sushi rolls.",
+      "imageUrl": "https://images.unsplash.com/photo-1660217595514-c3da28dac241?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c3VzaGklMjBwbGF0dGVyfGVufDB8fHx8MTc2MzE0MDExM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sushi platter"
+    },
+    {
+      "id": "dish-steak",
+      "description": "A grilled steak with asparagus.",
+      "imageUrl": "https://images.unsplash.com/photo-1558030137-a56c1b004fa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxncmlsbGVkJTIwc3RlYWt8ZW58MHx8fHwxNzYzMTM2MDY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "grilled steak"
+    },
+    {
+      "id": "dish-dessert",
+      "description": "A slice of chocolate lava cake with a scoop of vanilla ice cream.",
+      "imageUrl": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjaG9jb2xhdGUlMjBjYWtlfGVufDB8fHx8MTc2MzE1Mzc0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate cake"
+    },
+    {
+      "id": "dish-cocktail",
+      "description": "An orange-colored cocktail in a fancy glass.",
+      "imageUrl": "https://images.unsplash.com/photo-1624973389620-eefa0b310940?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxvcmFuZ2UlMjBjb2NrdGFpbHxlbnwwfHx8fDE3NjMxOTk4OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "orange cocktail"
+    }
+  ]
 }
